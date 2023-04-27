@@ -13,7 +13,7 @@
         "php": ">=5.4",
         "illuminate/support": "~5.0",
         "illuminate/database": "~5.0",
-        "baum/baum": "v2.x-dev"
+        "baum/baum": "2.0.2"
     },
     "require-dev": {
         "phpunit/phpunit": "~4.0"
